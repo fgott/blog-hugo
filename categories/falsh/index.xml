@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Falsh on 陪伴小屋</title>
-        <link>http://localhost:1313/categories/falsh/</link>
+        <link>https://www.dxx.plus/categories/falsh/</link>
         <description>Recent content in Falsh on 陪伴小屋</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Tobby</copyright>
-        <lastBuildDate>Fri, 14 Apr 2023 10:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/falsh/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 14 Apr 2023 10:00:00 +0800</lastBuildDate><atom:link href="https://www.dxx.plus/categories/falsh/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>如何优雅拾起flash</title>
-        <link>http://localhost:1313/p/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E6%8B%BE%E8%B5%B7flash/</link>
+        <link>https://www.dxx.plus/p/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E6%8B%BE%E8%B5%B7flash/</link>
         <pubDate>Fri, 14 Apr 2023 10:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E6%8B%BE%E8%B5%B7flash/</guid>
-        <description>&lt;img src="http://localhost:1313/p/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E6%8B%BE%E8%B5%B7flash/flash.webp" alt="Featured image of post 如何优雅拾起flash" /&gt;&lt;p&gt;历史原因不在过多陈述，置于为什么突然要发这个，是因为看到差评公众号发表的“从浏览器沦为系统毒瘤：无法禁用的IE背后，是几百亿的家族生意”下有人回复说flash还得专门下载一个内嵌flash的浏览器。
+        <guid>https://www.dxx.plus/p/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E6%8B%BE%E8%B5%B7flash/</guid>
+        <description>&lt;img src="https://www.dxx.plus/p/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E6%8B%BE%E8%B5%B7flash/flash.webp" alt="Featured image of post 如何优雅拾起flash" /&gt;&lt;p&gt;历史原因不在过多陈述，置于为什么突然要发这个，是因为看到差评公众号发表的“从浏览器沦为系统毒瘤：无法禁用的IE背后，是几百亿的家族生意”下有人回复说flash还得专门下载一个内嵌flash的浏览器。
 今天我就教大家怎么安装纯净版flash（个人认为）以及支持flash的chrome浏览器怎么获得。&lt;/p&gt;
 &lt;p&gt;东西丢开头，怎么用慢慢看。（所有资源均来自互联网，与本人无关）&lt;/p&gt;
 &lt;p&gt;Flash清理及三合一安装包：&lt;/p&gt;

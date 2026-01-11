@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 陪伴小屋</title>
-        <link>http://localhost:1313/post/</link>
+        <link>https://www.dxx.plus/post/</link>
         <description>Recent content in Posts on 陪伴小屋</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Tobby</copyright>
-        <lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dxx.plus/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>sip - 使用 OpenSIPS/Kamailio/OpenSER 进行 RTP 代理</title>
-        <link>http://localhost:1313/p/sip-opensips-rtp-0612/</link>
+        <link>https://www.dxx.plus/p/sip-opensips-rtp-0612/</link>
         <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/sip-opensips-rtp-0612/</guid>
-        <description>&lt;img src="http://localhost:1313/p/the-creative-exchange-d2zvqp3fpro-unsplash.jpg/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post sip - 使用 OpenSIPS/Kamailio/OpenSER 进行 RTP 代理" /&gt;&lt;p&gt;from:https://www.coder.work/article/6748986&lt;/p&gt;
+        <guid>https://www.dxx.plus/p/sip-opensips-rtp-0612/</guid>
+        <description>&lt;img src="https://www.dxx.plus/p/sip-opensips-rtp-0612/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post sip - 使用 OpenSIPS/Kamailio/OpenSER 进行 RTP 代理" /&gt;&lt;p&gt;from:https://www.coder.work/article/6748986&lt;/p&gt;
 &lt;p&gt;我有一个监听多个 IP 的 OpenSIPS 服务器。
 如果我将调用路由回下一个点，我想确保所有信令和媒体都来自调用最初登陆的 IP(我不希望调用者和被调用者知道彼此的 IP 地址)。&lt;/p&gt;
 &lt;p&gt;我相信我需要像 RTPProxy 这样的东西。&lt;/p&gt;
@@ -218,11 +218,11 @@
         </item>
         <item>
         <title>如何优雅拾起flash</title>
-        <link>http://localhost:1313/p/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E6%8B%BE%E8%B5%B7flash/</link>
+        <link>https://www.dxx.plus/p/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E6%8B%BE%E8%B5%B7flash/</link>
         <pubDate>Fri, 14 Apr 2023 10:00:00 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E6%8B%BE%E8%B5%B7flash/</guid>
-        <description>&lt;img src="http://localhost:1313/p/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E6%8B%BE%E8%B5%B7flash/flash.webp" alt="Featured image of post 如何优雅拾起flash" /&gt;&lt;p&gt;历史原因不在过多陈述，置于为什么突然要发这个，是因为看到差评公众号发表的“从浏览器沦为系统毒瘤：无法禁用的IE背后，是几百亿的家族生意”下有人回复说flash还得专门下载一个内嵌flash的浏览器。
+        <guid>https://www.dxx.plus/p/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E6%8B%BE%E8%B5%B7flash/</guid>
+        <description>&lt;img src="https://www.dxx.plus/p/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E6%8B%BE%E8%B5%B7flash/flash.webp" alt="Featured image of post 如何优雅拾起flash" /&gt;&lt;p&gt;历史原因不在过多陈述，置于为什么突然要发这个，是因为看到差评公众号发表的“从浏览器沦为系统毒瘤：无法禁用的IE背后，是几百亿的家族生意”下有人回复说flash还得专门下载一个内嵌flash的浏览器。
 今天我就教大家怎么安装纯净版flash（个人认为）以及支持flash的chrome浏览器怎么获得。&lt;/p&gt;
 &lt;p&gt;东西丢开头，怎么用慢慢看。（所有资源均来自互联网，与本人无关）&lt;/p&gt;
 &lt;p&gt;Flash清理及三合一安装包：&lt;/p&gt;
@@ -272,10 +272,10 @@
         </item>
         <item>
         <title>号码归属地信息从dat文件导出成列表</title>
-        <link>http://localhost:1313/p/phone-export-python-0410/</link>
+        <link>https://www.dxx.plus/p/phone-export-python-0410/</link>
         <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/phone-export-python-0410/</guid>
+        <guid>https://www.dxx.plus/p/phone-export-python-0410/</guid>
         <description>&lt;p&gt;广电开始有电信业务了，号码归属地表又是一顿更新，如果跟不上步伐可能会引发一些事故。目前暂时本人暂时无法做到自己去爬数据，所以就只能借助网上大佬的数据库来使用了。&lt;/p&gt;
 &lt;p&gt;找了一圈，找到了lovedboy大佬的github库。以及相对应的脚本。原本的使用方法应该是数据文件+脚本形成可以即时调用的方法，但无奈自家是写进mysql的，只能无奈将其导出。&lt;/p&gt;
 &lt;p&gt;修改了大佬的原调用脚本，测试失败。😅&lt;/p&gt;

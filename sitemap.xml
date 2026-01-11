@@ -2,48 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.dxx.plus/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.dxx.plus/categories/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/kamailio/</loc>
+    <loc>https://www.dxx.plus/tags/kamailio/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/openser/</loc>
+    <loc>https://www.dxx.plus/tags/openser/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/opensips/</loc>
+    <loc>https://www.dxx.plus/tags/opensips/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://www.dxx.plus/post/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sip/</loc>
+    <loc>https://www.dxx.plus/tags/sip/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/sip-opensips-rtp-0612/</loc>
+    <loc>https://www.dxx.plus/p/sip-opensips-rtp-0612/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.dxx.plus/tags/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E9%80%9A%E8%AE%AF/</loc>
+    <loc>https://www.dxx.plus/categories/%E9%80%9A%E8%AE%AF/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://www.dxx.plus/categories/falsh/</loc>
+    <lastmod>2023-04-14T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.dxx.plus/tags/flash/</loc>
+    <lastmod>2023-04-14T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.dxx.plus/p/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E6%8B%BE%E8%B5%B7flash/</loc>
+    <lastmod>2023-04-14T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.dxx.plus/tags/phone/</loc>
+    <lastmod>2023-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dxx.plus/categories/python/</loc>
+    <lastmod>2023-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dxx.plus/tags/python/</loc>
+    <lastmod>2023-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dxx.plus/p/phone-export-python-0410/</loc>
+    <lastmod>2023-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dxx.plus/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://www.dxx.plus/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/links/</loc>
+    <loc>https://www.dxx.plus/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://www.dxx.plus/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
+    <loc>https://www.dxx.plus/categories/test/</loc>
   </url><url>
-    <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://www.dxx.plus/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>
